@@ -1,6 +1,6 @@
 import React from 'react';
-import CalcScreen from './src/screens/calc/calc.screen';
+import Calculator from './src/screens/Calculator';
 
 export default function App() {
-  return <CalcScreen />;
+  return <Calculator/>;
 }
